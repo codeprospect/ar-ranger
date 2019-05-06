@@ -38,4 +38,4 @@ for y in new_order:
     for t in back:
         if y == t:
             u = back.index(t)
-            shutil.copy('D:\\jane\\'+ concent +'\\'+ songs[u], 'D:\\jane\\'+ final)
+            shutil.copy('D:\\jane\\'+ concent +'\\'+ songs[u], 'E:\\'+ final)
